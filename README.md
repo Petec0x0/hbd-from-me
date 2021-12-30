@@ -1,2 +1,2 @@
 # hbd-from-me
-A birthday reminder app API.
+A birthday reminder Graphql API built with Nodejs.
